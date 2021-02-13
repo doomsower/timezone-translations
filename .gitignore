@@ -1,0 +1,6 @@
+/data/
+/input/
+/node_modules/
+/.idea
+*.iml
+.vscode/
