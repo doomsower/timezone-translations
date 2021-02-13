@@ -1,6 +1,6 @@
 {
   "name": "timezone-translations",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Pure JS popover component for react-native",
   "files": [
     "data"
