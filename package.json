@@ -25,7 +25,7 @@
     "clean": "rm -rf input data",
     "lint": "eslint \"**/*.js\"",
     "build": "./scripts/build.sh",
-    "version": "yarn build",
+    "prepare": "yarn build",
     "postinstall": "husky install",
     "prepublishOnly": "pinst --disable",
     "postpublish": "pinst --enable"
